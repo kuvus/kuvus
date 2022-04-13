@@ -1,7 +1,6 @@
 ### kuvuś
 
-I'm 19yo web developer and I currently study at AGH University of Science and Technology in Cracow.
+I'm 19yo web developer, I currently study at AGH University of Science and Technology in Cracow.  
+I code in JavaScript and I mainly work with technologies such as React, Next.js and Express.js.  
 
-[kuvus.github.io](https://kuvus.github.io/)  
-[Strona na Azure](https://jmaciol1.z28.web.core.windows.net/)
-[o2ac-ur](https://github.com/kuvus/o2ac-ur)
+[My Website](https://kuvus.pl/)  
