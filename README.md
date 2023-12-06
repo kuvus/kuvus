@@ -4,8 +4,8 @@ Full Stack Web-Developer
 
 ## About me
 
-I'm 21yo web developer based in Cracow, Poland. I study CS at the [AGH UST](https://www.agh.edu.pl/en) in Cracow, Poland.  
-I code in JavaScript and I mainly work with technologies such as React, Next.js and Express.js.  
+I'm 21yo web developer based in Cracow, Poland. I study Computer Science and Intelligent Systems at the [AGH University of Krakow](https://www.agh.edu.pl/en) in Cracow, Poland.  
+I mainly code in JavaScript or Python and work with technologies such as React, Next.js and Express.js.  
 
 ### Technologies and languages
 React.js, Next.js, Express.js, JavaScript, TypeScript, Python 
