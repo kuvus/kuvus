@@ -15,5 +15,7 @@ React.js, Next.js, Express.js, JavaScript, TypeScript, Python
 * [kuvuBot](https://github.com/kuvuBot/kuvuBot) - Discord BOT made in .NET
 * [wszech.pl](https://wszech.pl/) - Website which offers free subdomains, made with Express.js
 
+Check ot the "Pinned" section on my Githup profile to see my other projects.
+
 ## Website
 [kuvus.pl](https://kuvus.pl/)  
